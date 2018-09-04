@@ -4,6 +4,7 @@ state("Inverto")
 	byte level : 0x01E0EA4, 0x0;
 }
 
+
 startup
 {
 	//Full game autosplitter settings
